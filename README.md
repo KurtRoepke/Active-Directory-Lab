@@ -64,23 +64,23 @@ Go to add roles and select routing.
 <img src="images/4.png" height="80%" width="80%"  />
 
  Go to add roles and, select dhcp click next and install.
-<img src="dhcpc.png" height="80%" width="80%" />
+<img src="images/dhcpc.png" height="80%" width="80%" />
 
 Select tools then select dhcp and, right click ipv4 next select new scope.
-<img src="scope.png" height="80%" width="80%" />
+<img src="images/scope.png" height="80%" width="80%" />
 
  Next add router with defult gateway.
-<img src="addr.png" height="80%" width="80%" />
+<img src="images/addr.png" height="80%" width="80%" />
 
  Go to the yellow triangle and press dhcp to authorize the dhcp server.
-<img src=" 5.png " height="80%" width="80%" />
+<img src=" images/5.png " height="80%" width="80%" />
 
  Install a client windows 10 pro virtual machine.
-<img src="6" height="80%" width="80%" />
+<img src="images/6.png" height="80%" width="80%" />
 
  Next go to change computer name and join mydomain.com.
-<img src="7.png" height="80%" width="80%" />
+<img src="images/7.png" height="80%" width="80%" />
 
  Finaly to confirm connectivity ping the defult gateway and then an outside ip address. 
-<img src="8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
