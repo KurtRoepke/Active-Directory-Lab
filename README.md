@@ -40,10 +40,10 @@ Go to server manager and select add roles.
 <img src="images/selectserver.png" height="80%" width="80%" />
   
   Choose active directory domain services and, click next and install.
-<img src="imagesdhcp.png" height="80%" width="80%" />
+<img src="images/dhcp.png" height="80%" width="80%" />
   
   Go to the yellow triangle to create a new domain. 
-<img src="imagestrianglead.png" height="80%" width="80%" or trianglead />
+<img src="images/trianglead.png" height="80%" width="80%" or trianglead />
   
   Go to tools then active directory users and computers and, create new administrator ou.
 <img src="images/Newou.png" height="80%" width="80%" />
