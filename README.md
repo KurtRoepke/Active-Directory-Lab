@@ -22,7 +22,7 @@ This project explain's the process of creating an instance of windows server 202
 <h2>Program walk-through:</h2>
 
 Create a virtual machine in virtualbox and select windows server 2022 for desktop.
-<img src="createDC.png" height="80%" width="80%"/>
+<img src="images/createDC.png" height="80%" width="80%"/>
 
 Add two nic's one with nat and, one internal nic for client pc.
 <img src="addNic.png" height="80%" width="80%"/>
