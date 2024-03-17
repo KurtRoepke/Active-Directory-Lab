@@ -58,7 +58,7 @@ Go to server manager and select add roles.
 Go to add roles and select routing.
 <img src="images/routing.png" height="80%" width="80%" />
 
- Select routing and install.
+ Next Select routing and install.
 <img src="images/3.png" height="80%" width="80%" />
  
  Next select tools, routing an remote, choose nat and choose the external nic.
@@ -73,10 +73,10 @@ Select tools then select dhcp and, right click ipv4 next select new scope.
  Next add router with defult gateway.
 <img src="images/addr.png" height="80%" width="80%" />
 
- Go to the yellow triangle and press dhcp to authorize the dhcp server.
+! Go to the yellow triangle and press dhcp to authorize the dhcp server.
 <img src=" images/5.png " height="80%" width="80%" />
 
- Install a client windows 10 pro virtual machine.
+ !Install a client windows 10 pro virtual machine.
 <img src="images/6.png" height="80%" width="80%" />
 
  Next go to change computer name and join mydomain.com.
