@@ -74,7 +74,7 @@ Select tools then select dhcp and, right click ipv4 next select new scope.
 <img src="images/addr.png" height="80%" width="80%" />
 
 ! Go to the yellow triangle and press dhcp to authorize the dhcp server.
-<img src="images/dhcpc.png" height="80%" width="80%" />
+<img src="images/5n.png" height="80%" width="80%" />
 
  Install a client windows 10 pro virtual machine.
 <img src="images/6.png" height="80%" width="80%" />
