@@ -20,7 +20,7 @@ This repoitory explain's the process of creating an instance of windows server 2
 - <b>Windows Server 2022</b> (21H2)
 
 <h2>Program walk-through:</h2>
-
+<p align="center">
 Create a virtual machine in virtualbox and select windows server 2022 for desktop.
 <img src="images/createDC.png" height="80%" width="80%"/>
 
@@ -83,4 +83,4 @@ Select tools then select dhcp and, right click ipv4 next select new scope.
 
  Finaly to confirm connectivity ping the defult gateway and then an outside ip address. 
 <img src="images/8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</p>
