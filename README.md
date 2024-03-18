@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-This repoitory explain's the process of creating an instance of windows server 2022 and, a windows 10 pro client. I also explain creating an active directory domain with an admin ou and, account. Finaly i explain setting up basic nat/routing, dhcp server and, a dns server. 
+This repoitory explain's the process of creating an instance of windows server 2022 and, a windows 10 pro client. we also go over creating an active directory domain with an admin ou and, account. Finaly i explain setting up basic nat/routing, dhcp server and, a dns server. 
 <br />
 
 
